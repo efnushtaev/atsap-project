@@ -1,3 +1,3 @@
 # atsap-project
-Agrotechnical System of Automation Production [AtSAP] - Автоматизированная Система Автоматизированного производства
+Agrotechnical System of Automation Production [AtSAP] - Агротехническая Система Автоматизированного производства
 Децентрализованная агротехническая система основанная на экономике совместного автоматизированного производства
